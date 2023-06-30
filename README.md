@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GouthamAcharya
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Android Application Development
+- 👀 I’m interested in Web and Mobile development
+- 🌱 I’m currently learning backend
+- 💞️ I’m looking to collaborate on Web and mobile development
 
 <!---
 GouthamAcharya/GouthamAcharya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
